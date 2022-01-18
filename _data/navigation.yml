@@ -2,8 +2,8 @@ logo: /images/NParks%20Logo.jpg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Submit photo
+    url: /submit
   - title: Example Collection
     collection: example-collection
   - title: Resources
