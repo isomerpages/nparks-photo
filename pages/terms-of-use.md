@@ -2,9 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
-
-#### **General Legal Information**
+### **General Terms and Conditions on the Use of this Website**
 
 In these Terms of Use, the user of the Website is defined as "You" or "Your" and the provider of the Website is defined as "We", "Us" or "Our".
 
@@ -12,6 +10,7 @@ These Terms of Use apply to Your use of the website at www.nparks.gov.sg and its
 
 The National Parks Board may at any time revise the terms and conditions contained in this section of the Website. 
 
+#### **
 Proprietary Rights 
 All copyrights in the text, images, photographs, graphics, user interface, and other content provided on the Website (“Contents”), as well as the selection, coordination, and arrangement of such Contents are owned by the National Parks Board or third party licensors. You are prohibited from copying, reproducing, modifying, distributing, displaying, performing or transmitting any of the Contents on the Website for any purposes without prior written consent of the National Parks Board. Nothing in this Website shall be construed as conferring any licence or right under any copyright of the National Parks Board or any third party.
 
