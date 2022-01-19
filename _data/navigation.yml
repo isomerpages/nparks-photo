@@ -1,10 +1,10 @@
 logo: /images/NParks%20Logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Rules
+    url: /rules
   - title: Submit photo
     url: /submit
-  - title: Example Collection
-    collection: example-collection
   - title: Resources
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
